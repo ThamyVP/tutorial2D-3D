@@ -3,5 +3,5 @@
 Sebastian Vielma
 Karen Guitierrez
 Tamara Valenzuela
-# seccion
+# seccion:
 247
