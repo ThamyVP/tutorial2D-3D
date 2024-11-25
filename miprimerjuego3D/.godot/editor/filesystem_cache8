@@ -1,0 +1,27 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1732548358
+default_bus_layout.tres::AudioBusLayout::-1::1730670893::0::1::::<><>::
+default_env.tres::Environment::-1::1730670893::0::1::::<><>::
+export_presets.cfg::TextFile::-1::1730786020::0::1::::<><>::
+icon.png::CompressedTexture2D::795003683624551613::1730670764::1730670977::1::::<><>::
+main2.gd::GDScript::-1::1730773661::0::1::::<>Node<>::
+main.gd::GDScript::-1::1730780687::0::1::::<>Node<>::
+main.tscn::PackedScene::4148685732555299507::1730785168::0::1::::<><>::res://main.gd<>uid://buvdgxnexj8kh::::res://player.tscn<>uid://chwewvjopvqph::::res://mob.tscn<>uid://bjwmhdm5so5ge::::res://fonts/Montserrat-Medium.ttf<>res://score_label.gd
+mob.gd::GDScript::-1::1730784931::0::1::::<>CharacterBody3D<>::
+mob.tscn::PackedScene::5309862856429295581::1730786073::0::1::::<><>::res://mob.gd<>uid://w4biviwtt5ad::::res://art/mob.glb
+music_player.tscn::PackedScene::3807274029220498164::1730785168::0::1::::<><>::uid://dh7qqukx87svf::::res://art/House In a Forest Loop.ogg
+player.gd::GDScript::-1::1730784910::0::1::::<>CharacterBody3D<>::
+player.tscn::PackedScene::3833743583363113175::1730785168::0::1::::<><>::uid://b7sld01jnd0si::::res://art/player.glb<>res://player.gd
+score_label.gd::GDScript::-1::1730779376::0::1::::<>Label<>::
+::res://art/::1730670977
+body.material::StandardMaterial3D::-1::1730670764::0::1::::<><>::
+eye.material::StandardMaterial3D::-1::1730670764::0::1::::<><>::
+House In a Forest Loop.ogg::AudioStreamOggVorbis::7717645156267624583::1730670764::1730670977::1::::<><>::
+mob.glb::PackedScene::1604097634622991107::1730670764::1730670977::1::::<><>::
+mob_body.material::StandardMaterial3D::-1::1730670764::0::1::::<><>::
+mob_eye.material::StandardMaterial3D::-1::1730670764::0::1::::<><>::
+player.glb::PackedScene::4670297077660466136::1730670764::1730670977::1::::<><>::
+pupil.material::StandardMaterial3D::-1::1730670764::0::1::::<><>::
+::res://fonts/::1730670977
+LICENSE.txt::TextFile::-1::1730670764::0::1::::<><>::
+Montserrat-Medium.ttf::FontFile::3064277868990644760::1730670764::1730670977::1::::<><>::
